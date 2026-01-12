@@ -389,4 +389,4 @@ function step() {
 }
 
 resetAll();
-setInterval(step, 50);
+setInterval(step, 70);
